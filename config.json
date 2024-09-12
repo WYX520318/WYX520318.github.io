@@ -1,6 +1,10 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "title":"地灵殿",
+    "subTitle":"这里是亦柔扬善的个人博客 欢迎欢迎喵",
+    "avatarUrl":"https://s1.locimg.com/2024/09/12/f50dd76920042.png",
+    "email":"zituan957@gmail.com",
+    "onePageListNum":15,
+    "bottomText":"我会永远看着你 永远看着你 永远看着你 永远看着你！",
+    "startSite":"09/12/2024",
     "GMEEK_VERSION":"last"
 }
