@@ -1,6 +1,19 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "title":"地灵殿",
+    "subTitle":"亦柔扬善的个人博客",
+    "avatarUrl":"https://i.miji.bid/2025/03/08/0ee343b3a6782ea47de53a471fbd1721.jpeg",
+    "email":"zituan957@gmail.com",
+    "startSite":"03/18/2024",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "urlMode":"issue",
+    "rssSplit":"sentence",
+    "bottomText":"让我一直看着你吧，亲爱的",
     "GMEEK_VERSION":"last"
 }
